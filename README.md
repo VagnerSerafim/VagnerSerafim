@@ -16,14 +16,12 @@ Isso aqui está um pouco desatualizado mas prometo que em breve irei atualizar c
 
 ##
 
-<div>
-  <img height="180cm" src="https://github-redme-stats.vercel.app/api/top-langs/?username=gabiandrade&layout=compact&langs_count=16&theme=dracula">
-</div>
+
 
 <div>
   <img align="center" alt="gabi.java" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="gabi.java" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="gabi.java" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+  
 </div>
 
 <!--
