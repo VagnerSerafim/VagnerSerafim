@@ -19,7 +19,7 @@ Isso aqui está um pouco desatualizado mas prometo que em breve irei atualizar c
 
 
 <div>
-  <img align="center" alt="gabi.java" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="vagner.java" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="gabi.java" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
   
 </div>
