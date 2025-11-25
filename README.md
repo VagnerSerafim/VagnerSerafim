@@ -26,8 +26,9 @@ Isso aqui está um pouco desatualizado mas prometo que em breve irei atualizar c
 
 <div>
   <img align="center" alt="vagner.java" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="gabi.java" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="gabi.java" height="70" width="70" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg">
+  <img align="center" alt="gabi.java" height="70" width="70" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-Apps-Colored.svg">
+  <img align="center" alt="gabi.java" height="70" width="70" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-Automate-Colored.svg">
   
   
 </div>
