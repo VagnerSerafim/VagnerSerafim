@@ -4,7 +4,13 @@
 
 ##
 
-Meu nome é Vagner, sou formada em Sistemas de Informação pela Faisp. Trabalho com desenvolvimento de software desde 2023. Atualmente sou Desenvolvedor de Sistema na Atos e estou migrando para área de Dados. 👩‍💻
+Meu nome é Vagner, sou formada em Sistemas de Informação pela Faisp.
+💻 Desenvolvedor de Software em Plataformas Low Code, Power Apps e Power BI
+🎓 Professor de Informática na Siesp
+Profissional no desenvolvimento de soluções personalizadas com o uso de Plataformas Low Code, como Power Apps e Power BI, integrando tecnologias inovadoras para otimizar processos e gerar valor estratégico por meio de dados.
+Além disso, tenho paixão por ensinar e compartilhar conhecimentos como Professor de Informática na Siesp, ajudando a formar profissionais capacitados em Tecnologia da Informação.
+🌍 Como PCD (Pessoa com Deficiência), acredito na diversidade como motor de inovação.
+Sempre buscando novos desafios e aprendizados, alio criatividade, inovação e um olhar analítico para impulsionar resultados em cada projeto.
 
 Isso aqui está um pouco desatualizado mas prometo que em breve irei atualizar com meus projetos de estudo. :blush:
 
@@ -21,6 +27,8 @@ Isso aqui está um pouco desatualizado mas prometo que em breve irei atualizar c
 <div>
   <img align="center" alt="vagner.java" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="gabi.java" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="gabi.java" height="70" width="70" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg">
+  
   
 </div>
 
