@@ -1,10 +1,10 @@
-## Hi there 👋
+## Olá 👋
 
-### <p align="center"> Hello people :vulcan_salute:</p>
+### <p align="center"> Olá Pessoal :vulcan_salute:</p>
 
 ##
 
-Meu nome é Vagner, sou formada em Sistemas de Informação pela Faisp.
+Meu nome é Vagner, sou formado em Desenvolvimento de Sistema pela Faisp.
 💻 Desenvolvedor de Software em Plataformas Low Code, Power Apps e Power BI
 🎓 Professor de Informática na Siesp
 Profissional no desenvolvimento de soluções personalizadas com o uso de Plataformas Low Code, como Power Apps e Power BI, integrando tecnologias inovadoras para otimizar processos e gerar valor estratégico por meio de dados.
