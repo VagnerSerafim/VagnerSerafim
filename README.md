@@ -1,6 +1,6 @@
 ## Olá 👋
 
-### <p align="center"> Olá Pessoal :vulcan_salute:</p>
+### <p align="center"> Olá Pessoal :✔🤝:</p>
 
 ##
 
